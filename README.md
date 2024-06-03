@@ -20,4 +20,11 @@ npm run serve
 
 ## 后端运行
 
-使用pycharm打开backend文件夹，在pycharm中运行即可。
+使用pycharm打开backend文件夹。
+
+之后在终端中执行以下命令运行后端程序：
+
+```
+python manage.py runserver
+```
+
